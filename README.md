@@ -24,6 +24,7 @@
 
 - como melhorar minha gestão de tempo
 - como melhorar meu linkedin para recrutadores
+- como melhorar meu curriculo
 - como posso usar objetos no typescript 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
